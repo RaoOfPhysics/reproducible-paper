@@ -1,0 +1,6 @@
+.cache/
+.local/
+.ipython/
+.jupyter/
+.directory
+.jupyter-server-log.txt

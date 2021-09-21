@@ -1,6 +1,6 @@
 .cache/
 .local/
 .ipython/
-.jupyter/
+.jupyter/migrated
 .directory
 .jupyter-server-log.txt
